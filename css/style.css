@@ -1,0 +1,28 @@
+/* Stylesheet */
+
+:root{
+    --primary-color: #f0f0f0;
+    --secondary-color: #f0f0f0;
+    --tertiary-color: #f0f0f0;
+    --quaternary-color: #f0f0f0;
+    --quinary-color: #f0f0f0;
+    --senary-color: #f0f0f0;
+    --septenary-color: #f0f0f0;
+    --octonary-color: #f0f0f0;
+    --nonary-color: #f0f0f0;
+    --denary-color: #f0f0f0;
+}
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    font-family: 'Poppins', sans-serif;
+    font-size: 1rem;
+    line-height: 1.6;
+    color: var(--primary-color);
+    background-color: var(--secondary-color);
+}
