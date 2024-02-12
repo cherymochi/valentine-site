@@ -55,6 +55,17 @@ body{
 
 }
 
+.heading_yes{
+    font-size: 1.8rem;
+    color: var(--text-color);
+    text-align: center;
+
+    font-family: Great Vibes;
+
+    margin-top: 5%;
+
+}
+
 .headline{
     width: 50%;
     margin: auto;
@@ -563,3 +574,5 @@ body{
     display: inline-block;
     cursor: pointer;
   }
+
+  
